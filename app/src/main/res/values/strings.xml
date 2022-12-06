@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB7_KRE17</string>
+    <string name="zagruzka">загрузка</string>
+    <string name="obnovlenie">обновление</string>
+    <string name="net_dannikh">нет данных</string>
+    <string name="oshibka">ошибка</string>
+</resources>
